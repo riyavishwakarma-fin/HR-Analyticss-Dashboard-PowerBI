@@ -25,5 +25,6 @@ This project focuses on analyzing employee attrition using Power BI. The goal is
 - Power BI
 - Data Visualization
 - Data Cleaning & Transformation
+  
 #🧠Learnings
 This project helped me understand that data analysis is not just about creating dashboards, but about deriving meaningful insights that can drive business decisions.
