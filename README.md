@@ -24,11 +24,12 @@ This project focuses on analyzing employee attrition using Power BI. The goal is
 - Majority of exits fall within the 26–35 age group
 - Certain job roles show significantly higher attrition
 - Department-level variations highlight areas of concern
-- 
+ 
 #Tools & Technologies
 - Power BI
 - Data Visualization
 - Data Cleaning & Transformation
   
 #🧠Learnings
+
 This project helped me understand that data analysis is not just about creating dashboards, but about deriving meaningful insights that can drive business decisions.
