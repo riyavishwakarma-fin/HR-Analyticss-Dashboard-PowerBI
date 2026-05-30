@@ -2,6 +2,7 @@
 PowerBI dashboard analyzing employee attrition with insights across age, salary, job roles, and deparments.
 
 #📌Project Overview
+
 This project focuses on analyzing employee attrition using Power BI. The goal is to uncover patterns and insights that can help organizations understand why employees leave and support better decision-making.
 
 #🎯Objectives
